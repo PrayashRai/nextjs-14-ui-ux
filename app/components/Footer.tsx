@@ -3,6 +3,7 @@ import Logo from "../../public/assets/Logo.svg";
 import Facebook from "../../public/assets/Facebook.svg";
 import Twitter from "../../public/assets/X.svg";
 import Feed from "../../public/assets/Feed.svg";
+import Demo from "../../public/assets/demo.gif"
 
 export function Footer() {
   return (
