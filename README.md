@@ -1,23 +1,35 @@
-# E-Commerce Application  
-
-A full-featured e-commerce application built using **React** and **Redux**, integrating the **Fake Store API** for product management, user authentication, and checkout processes.  
-
-🚀 **Live Demo:** [E-Commerce Clothing Store](https://e-commerece-clothing-store.vercel.app/)  
-
-## Demo  
-![E-Commerce Demo](./demo.gif)  
 
 
-## Features  
-- **Product Listings** – Display a variety of products with details.  
-- **Shopping Cart** – Add, remove, and update cart items.  
-- **User Authentication** – Login and register users.  
-- **Checkout Process** – Manage orders and payments.  
+# Next.js 14 Responsive UI/UX  
+
+A fully responsive user interface built with **Next.js 14** and **Tailwind CSS**, ensuring a seamless experience across all devices and screen sizes, from mobile to desktop.
+
+🚀 **Live Demo:** [E-Commerce Clothing Store](https://nextjs-14-ui-ux-qer9.vercel.app/)  
+
+## Demo Mobile
+![Next.js 14 Responsive UI/UX  Demo](./demo2.gif)  
+
+## Demo Mobile
+![Next.js 14 Responsive UI/UX  Demo](./demo1.gif)  
+
+## Demo Desktop
+
+
+
+## Key Features  
+- **Responsive Design** – Fluid layouts that automatically adjust to various screen sizes, ensuring optimal viewing experiences on mobile, tablet, and desktop.  
+- **Mobile-First Approach** – Designed with mobile devices in mind, ensuring a smooth experience for users on smaller screens.  
+- **Tailwind CSS** – Utility-first CSS framework that makes styling responsive layouts fast and easy.  
+- **Optimized for Performance** – Fast load times and smooth transitions for a fluid user experience on all devices.  
+- **Clean and Minimalist UI** – Simple, intuitive design that focuses on usability and user experience.  
 
 ## Technologies Used  
-- **React** – Front-end UI  
-- **Redux** – State management  
-- **Fake Store API** – Product and user data  
-- **React Router** – Navigation  
+- **Next.js 14** – React framework optimized for fast, SEO-friendly, and scalable web applications.  
+- **Tailwind CSS** – A utility-first CSS framework for fast and responsive design.  
+- **Media Queries** – Leverages Tailwind’s built-in responsive utilities for flexible layouts across screen sizes.  
+
+
+
+
 
 
