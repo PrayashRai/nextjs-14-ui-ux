@@ -9,10 +9,10 @@ A fully responsive user interface built with **Next.js 14** and **Tailwind CSS**
 ## Demo Mobile
 ![Next.js 14 Responsive UI/UX  Demo](./demo2.gif)  
 
-## Demo Mobile
+## Demo Desktop
 ![Next.js 14 Responsive UI/UX  Demo](./demo1.gif)  
 
-## Demo Desktop
+
 
 
 
